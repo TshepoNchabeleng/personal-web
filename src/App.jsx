@@ -45,7 +45,7 @@ export default function Portfolio(){
       description: "An application that tracks a user heart rate and blood flow to help them in high-risk situations and manage stress/anxiety states",
       tech: ["JavaScript", "TypeScript", "CSS", "HTML", "REACT", "Tailwind"],
       image: anxiocheck,
-      link: "https://github.com/TshepoNchabeleng/anxiocheck"
+      link: "https://sans-badger-82411507.figma.site/"
     }
   ];
 
