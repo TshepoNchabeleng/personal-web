@@ -3,6 +3,7 @@ import {Menu, X, Github, Linkedin, Instagram, Mail, ExternalLink, ChevronDown} f
 import ragImage from './Screenshot_2025-12-31_180903.png';
 import myImage from './IMG-20251231-WA0027.jpg';
 import hackathon from './IBM-Hackathon.png';
+import anxiocheck from './anxiocheck.png';
 import myCV from './Tshepo_Nchabeleng_CV.pdf';
 import './index.css';
 
@@ -38,6 +39,13 @@ export default function Portfolio(){
       tech: ["Langflow", "IBM Orchestra", "Python"],
       image: hackathon,
       link: "https://github.com/TshepoNchabeleng/IBM-Watsonx-Orchestra-Hackathon"
+    },
+    {
+      title: "anxiocheck",
+      description: "An application that tracks a user heart rate and blood flow to help them in high-risk situations and manage stress/anxiety states",
+      tech: ["JavaScript", "TypeScript", "CSS", "HTML", "REACT", "Tailwind"],
+      image: anxiocheck,
+      link: "https://github.com/TshepoNchabeleng/anxiocheck"
     }
   ];
 
